@@ -1,1 +1,3 @@
-123
+int genNumber(){
+  return 3;
+}
